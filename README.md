@@ -7,7 +7,7 @@
 - <b> Machine Learning Components)</b>
   - [Example 1](https://github.com/jacdiaz/Example1) <b><i>(Example 1)</b></i>
 - <b>PowerShell</b>
-  - [Example 1](https://github.com/jacdiaz)
+  - [Example 1](https://github.com/jacdiaz/Example1)
   - [Example 2](https://github.com/jacdiaz)
   
 [linkedin]: https://linkedin.com/in/jacdiaz
