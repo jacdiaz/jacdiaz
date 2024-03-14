@@ -3,7 +3,7 @@
 <h2>👨‍💻 Coursera Projects:</h2>
 
 - <b> Data Science (AlgoExpert)</b>
-  - [Coursera project1](https://github.com/jacdiaz)
+  - [data project](https://github.com/jacdiaz/data-project)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/jacdiaz) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
